@@ -9,6 +9,8 @@
   - [https://rogerdudler.github.io/git-guide/index.pt_BR.html](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
   - [https://www.freecodecamp.org/portuguese/news/aprenda-o-basico-de-git-em-menos-de-10-minutos/](https://www.freecodecamp.org/portuguese/news/aprenda-o-basico-de-git-em-menos-de-10-minutos/)
   - [https://docs.github.com/pt/get-started/quickstart](https://docs.github.com/pt/get-started/quickstart)
+- Requisitos - Elaboração dcoumento de visão
+  - [RequisitosVD.md](../../Templates/RequisitosVD.md)
 - Planejamento Projeto - [Management 3.0] [Scrum]
   - [Matriz de competências](https://forms.gle/qcGyoTsYXCwGPEa58)
   - [https://thomazribas.com/management-30/o-que-e-management-30]()
