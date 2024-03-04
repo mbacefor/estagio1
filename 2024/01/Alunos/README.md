@@ -11,7 +11,7 @@
 3. Meu nome é: Lucas Muniz Teles. Link do [projeto:https://github.com/lucasMunizt/estagio-1.git](projeto:https://github.com/lucasMunizt/estagio-1.git)
 4. Meu nome é: Bruna Dafne da Silva Souza. Link do projeto:
 5. Meu nome é: Isaac Viana Guedes Pontes. Link do projeto:
-6. Meu nome é: Jessica Andreia de Oliveira Sales. Link do projeto:
+6. Meu nome é: Jessica Andreia de Oliveira Sales. Link do projeto: [https://github.com/andreiiasalles/Noite-das-bruxas](https://github.com/andreiiasalles/Noite-das-bruxas)
 7. Meu nome é: João Victor Lopes Cavalcante. Link do projeto: [https://github.com/Jaum0730/Boltzman-Lagrange.git]()
 8. Meu nome é: Thiago Masseno Maciel. Link do projeto: [https://github.com/ThiagoMassenoMaciel/From-The-Ashes.github.io.git]()
 
