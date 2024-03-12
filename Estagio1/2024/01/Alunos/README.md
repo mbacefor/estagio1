@@ -8,7 +8,7 @@
 5. Meu nome é: Lucas Muniz Teles. Link do [projeto:https://github.com/lucasMunizt/estagio-1.git](projeto:https://github.com/lucasMunizt/estagio-1.git)
 6. Meu nome é: Bruna Dafne da Silva Souza. Link do projeto:
 
-7. Meu nome é: Isaac Viana Guedes Pontes. Link do projeto:
+7. Meu nome é: Isaac Viana Guedes Pontes. Link do projeto: [https://github.com/isaacviana7/MagicFall.git] (https://github.com/isaacviana7/MagicFall.git)
 
 
 
