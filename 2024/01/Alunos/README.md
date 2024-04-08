@@ -17,6 +17,7 @@
 9. Meu nome é: Renan Almeida da Silva. Link do projeto: [https://github.com/renanalmeidads/Abismo](https://github.com/renanalmeidads/Abismo)
 10. Meu nome é: João Victor Gondim Aires. Link do projeto: https://github.com/jvaires/Jungle-Adventure
 11. Meu nome é: Vitor Lucas. Link do projeto: [https://github.com/SenaVitor/chemical-duels](https://github.com/SenaVitor/chemical-duels)
+12. Meu nome é: André Jonas Morais da Rocha. Link do projeto: [https://github.com/Andrejmrocha/Crush-Craft](https://github.com/Andrejmrocha/Crush-Craft)
 
 
 Link grupo ZAP:  [https://chat.whatsapp.com/KY7Rit8Hf8uFE3IO58o5Xd](https://chat.whatsapp.com/KY7Rit8Hf8uFE3IO58o5Xd)
