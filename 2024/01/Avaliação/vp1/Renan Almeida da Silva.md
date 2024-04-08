@@ -1,7 +1,7 @@
 |![1694295403479](image/1694295403479.png)| **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 
-| **ALUNO:** Renan Almeida da Silva |                               | **MATRÍCULA:** 56046584 |            |
+| **ALUNO:** | Renan Almeida da Silva | **MATRÍCULA:** | 56046584 |
 | :-------------------- | ----------------------------- | :-------------------------- | ---------- |
 | **DISCIPLINA:** | Estágio 1                    | **DATA DA PROVA:**    | 08/04/2024 |
 | **PROFESSOR:**  | Marcelo Bezerra de Alcântara | **TIPO DE PROVA:**    | Online     |
