@@ -1,7 +1,7 @@
-|![1694295403479](image/1694295403479.png)| **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| ![1694295403479](image/1694295403479.png) | **CENTRO UNIVERSITÁRIO SETE DE SETEMBRO**  <br />CURSO DE GRADUAÇÃO EM SISTEMAS DE INFORMAÇÃO   <br />1ª AVALIAÇÃO  | ![1694295411069](image/1694295411069.png) |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
 
-| **ALUNO:**      |    Wesley Miranda de Oliveira    | **MATRÍCULA:**       |  56036990  |
+| **ALUNO:**      | Lucas Muniz Teles             | **MATRÍCULA:**       | 56049952   |
 | :-------------------- | ----------------------------- | :-------------------------- | ---------- |
 | **DISCIPLINA:** | Estágio 1                    | **DATA DA PROVA:**    | 08/04/2024 |
 | **PROFESSOR:**  | Marcelo Bezerra de Alcântara | **TIPO DE PROVA:**    | Online     |
@@ -11,13 +11,12 @@
 ### **Questão 1.** Controle de versão - GIT
 
 - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
-- Acesse o arquivo **EstagiosUni7\Estagio1\2024\01\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github>`
+- Acesse o arquivo **EstagiosUni7\Estagio1\2024\01\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<Lucas Muniz Teles>`-` https://github.com/lucasMunizt/estagio-1.git>`
 - Veja qual é o quinto comentário (histórico) que existe no arquivo README.md do repositório.
-  R:commit eac512c47a8fcc443f44ee6cd328c363f05f2198
-Author: Renan Almeida <renanalmeidads@gmail.com>
-Date:   Mon Apr 8 19:18:11 2024 -0300
-
-    Update Renan Almeida da Silva.md
+  R:
+- Quinto comentário:Update README
+- Nome: Lucas Muniz Teles
+- Link: [https://github.com/lucasMunizt/estagio-1.git](https://github.com/lucasMunizt/estagio-1.git)
 
 ### **Questão 2.** Github
 
@@ -32,14 +31,16 @@ Date:   Mon Apr 8 19:18:11 2024 -0300
   - #### Requisitos
   - #### Protótipos de Tela
 
+    R: Feito
+
 ### **Questão 3.** Scrum
 
-- Crie no gitbub um kanban para o seu projeto;
-- Crie os itens de backlog no seu kanban.
+- Crie no gitbub um kanban para o seu projeto; R: feito
+- Crie os itens de backlog no seu kanban.R: Feito
 
 ### **Questão 4.** Phaser 3
 
-* Crie o projeto phaser base para o jogo;
+* Crie o projeto phaser base para o jogo; R:Feito
 
 **MISSÃO INSTITUCIONAL**
 
