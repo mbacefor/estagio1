@@ -13,10 +13,10 @@
 - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
 - Acesse o arquivo **EstagiosUni7\Estagio1\2024\01\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github>`
 - Veja qual é o quinto comentário (histórico) que existe no arquivo README.md do repositório.
-    commit 5eb945b66b919a1ba59278319b4b65844043c63e
-    Merge: abc987c b816348
-    Author: Bruna Dafne da Silva Souza <56051831@sempreuni7.com.br>
-    Date:   Mon Apr 8 19:26:22 2024 -0300
+    commit 5eb945b66b919a1ba59278319b4b65844043c63e  
+    Merge: abc987c b816348  
+    Author: Bruna Dafne da Silva Souza <56051831@sempreuni7.com.br>  
+    Date:   Mon Apr 8 19:26:22 2024 -0300  
 
 ### **Questão 2.** Github
 
