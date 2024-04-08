@@ -66,12 +66,12 @@
 
 ### **Questão 3.** Scrum
 
-- Crie no gitbub um kanban para o seu projeto;
-- Crie os itens de backlog no seu kanban.
+- Crie no gitbub um kanban para o seu projeto; R: feito 
+- Crie os itens de backlog no seu kanban.  R: feito 
 
 ### **Questão 4.** Phaser 3
 
-* Crie o projeto phaser base para o jogo;
+* Crie o projeto phaser base para o jogo;  R: feito 
 
 **MISSÃO INSTITUCIONAL**
 
