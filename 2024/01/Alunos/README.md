@@ -19,5 +19,4 @@
 11. Meu nome é: Vitor Lucas. Link do projeto: [https://github.com/SenaVitor/chemical-duels](https://github.com/SenaVitor/chemical-duels)
 12. Meu nome é: André Jonas Morais da Rocha. Link do projeto: [https://github.com/Andrejmrocha/Crush-Craft](https://github.com/Andrejmrocha/Crush-Craft)
 
-
 Link grupo ZAP:  [https://chat.whatsapp.com/KY7Rit8Hf8uFE3IO58o5Xd](https://chat.whatsapp.com/KY7Rit8Hf8uFE3IO58o5Xd)
