@@ -6,13 +6,13 @@
 | **DISCIPLINA:** | Estágio 1                    | **DATA DA PROVA:**    | 08/04/2024 |
 | **PROFESSOR:**  | Marcelo Bezerra de Alcântara | **TIPO DE PROVA:**    | Online     |
 | **TURMA:**      | CSE0280105NNA                 | **CÓDIGO DA TURMA:** | UNI7T014   |
-|                       |                               | **NOTA:**             |            |
+|                       |                               | **NOTA:**             | 7,5 |
 
 ### **Questão 1.** Controle de versão - GIT
 
-- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
-- Acesse o arquivo **EstagiosUni7\Estagio1\2024\01\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github>`
-- Veja qual é o quinto comentário (histórico) que existe no arquivo README.md do repositório.
+- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. - OK - (1 ponto)
+- Acesse o arquivo **EstagiosUni7\Estagio1\2024\01\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github>` - OK - (1 ponto)
+- Veja qual é o quinto comentário (histórico) que existe no arquivo README.md do repositório. - OK - (1 ponto)
   R:commit eac512c47a8fcc443f44ee6cd328c363f05f2198
 Author: Renan Almeida <renanalmeidads@gmail.com>
 Date:   Mon Apr 8 19:18:11 2024 -0300
@@ -21,8 +21,8 @@ Date:   Mon Apr 8 19:18:11 2024 -0300
 
 ### **Questão 2.** Github
 
-- Crie um repositório no github com nome do seu projeto;
-- Crie um arquivo README.md com os seguintes tópicos:
+- Crie um repositório no github com nome do seu projeto;  - OK - (1 ponto)
+- Crie um arquivo README.md com os seguintes tópicos: - OK - (2,5 ponto)
 
   - #### Motivação
   - #### Objetivo
@@ -30,16 +30,16 @@ Date:   Mon Apr 8 19:18:11 2024 -0300
   - #### Fases
   - #### Esquema de Pontuação
   - #### Requisitos
-  - #### Protótipos de Tela
+  - #### Protótipos de Tela - Faltou
 
 ### **Questão 3.** Scrum
 
-- Crie no gitbub um kanban para o seu projeto;
-- Crie os itens de backlog no seu kanban.
+- Crie no gitbub um kanban para o seu projeto; falta
+- Crie os itens de backlog no seu kanban. falta
 
 ### **Questão 4.** Phaser 3
 
-* Crie o projeto phaser base para o jogo;
+* Crie o projeto phaser base para o jogo; - OK - (1 ponto)
 
 **MISSÃO INSTITUCIONAL**
 
