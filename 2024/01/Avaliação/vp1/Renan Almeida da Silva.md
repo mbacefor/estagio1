@@ -6,19 +6,19 @@
 | **DISCIPLINA:** | Estágio 1                    | **DATA DA PROVA:**    | 08/04/2024 |
 | **PROFESSOR:**  | Marcelo Bezerra de Alcântara | **TIPO DE PROVA:**    | Online     |
 | **TURMA:**      | CSE0280105NNA                 | **CÓDIGO DA TURMA:** | UNI7T014   |
-|                       |                               | **NOTA:**             |            |
+|                       |                               | **NOTA:**             | 10 |
 
 ### **Questão 1.** Controle de versão - GIT
 
-- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. **Feito!**
-- Acesse o arquivo **EstagiosUni7\Estagio1\2024\01\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github>` **Feito!**
+- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. **Feito!** - Ok (1 ponto)
+- Acesse o arquivo **EstagiosUni7\Estagio1\2024\01\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<seu nome completo>`-` Link do projeto:<link do projeto no github>` **Feito!** - Ok (1 ponto)
 - Veja qual é o quinto comentário (histórico) que existe no arquivo README.md do repositório.
-  R: Update README.md
+  R: Update README.md - Ok (1 ponto)
 
 ### **Questão 2.** Github
 
-- Crie um repositório no github com nome do seu projeto; **Feito!**
-- Crie um arquivo README.md com os seguintes tópicos: **Feito!**
+- Crie um repositório no github com nome do seu projeto; **Feito!** - Ok (1 ponto)
+- Crie um arquivo README.md com os seguintes tópicos: **Feito!** - Ok (3 pontos)
 
   - #### Motivação
   - #### Objetivo
@@ -30,12 +30,12 @@
 
 ### **Questão 3.** Scrum
 
-- Crie no gitbub um kanban para o seu projeto; **Feito!**
-- Crie os itens de backlog no seu kanban. **Feito!**
+- Crie no gitbub um kanban para o seu projeto; **Feito!** - Ok (1 ponto)
+- Crie os itens de backlog no seu kanban. **Feito!**- Ok (1 ponto)
 
 ### **Questão 4.** Phaser 3
 
-* Crie o projeto phaser base para o jogo; **Feito!**
+* Crie o projeto phaser base para o jogo; **Feito!** - Ok (1 ponto)
 
 **MISSÃO INSTITUCIONAL**
 
