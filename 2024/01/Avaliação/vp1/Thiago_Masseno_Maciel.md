@@ -6,30 +6,30 @@
 | **DISCIPLINA:** | Estágio 1                    | **DATA DA PROVA:**    | 08/04/2024 |
 | **PROFESSOR:**  | Marcelo Bezerra de Alcântara | **TIPO DE PROVA:**    | Online     |
 | **TURMA:**      | CSE0280105NNA                 | **CÓDIGO DA TURMA:** | UNI7T014   |
-|                       |                               | **NOTA:**             |            |
+|                       |                               | **NOTA:**             | 10 |
 
 ### **Questão 1.** Controle de versão - GIT
 
-- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
-- Acesse o arquivo **EstagiosUni7\Estagio1\2024\01\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<Thiago Masseno Maciel>`-` Link do projeto:<https://github.com/ThiagoMassenoMaciel/From-The-Ashes.github.io>`
+- Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. - ok (1 ponto)
+- Acesse o arquivo **EstagiosUni7\Estagio1\2024\01\Alunos\README.md** e adicione o seu nome com o nome do projeto: "Meu nome é:"+`<Thiago Masseno Maciel>`-` Link do projeto:<https://github.com/ThiagoMassenoMaciel/From-The-Ashes.github.io>` - ok (1 ponto)
 - Veja qual é o quinto comentário (histórico) que existe no arquivo README.md do repositório.
-  R:
+  R: - ok (1 ponto)
 
 ### **Questão 2.** Github
 
-- Crie um repositório no github com nome do seu projeto;
+- Crie um repositório no github com nome do seu projeto; - ok (1 ponto)
  - #### Para testar o pedaço que fiz do jogo, deve executar com a extensão line server o arquivo index dentro da pasta 
  - #### `/atividades/mover_e_Colisao_do_jogador_com_as_paredes_do_labirinto/index.html`
-- Crie um arquivo README.md com os seguintes tópicos:
+- Crie um arquivo README.md com os seguintes tópicos: - ok (3 pontos)
 
   - #### Motivação
-  - ##### É aplicar os conceitos que venho aprendendo durante minha jornada acadêmica desenvolvendo um jogo como trabalho da disciplina ESTÁGIO SUPERVISIONADO I. Eu tive a ideia do jogo aleatoriamente e gostaria de descobir como ela vai ser aplicada.
+  - ##### É aplicar os conceitos que venho aprendendo durante minha jornada acadêmica desenvolvendo um jogo como trabalho da disciplina ESTÁGIO SUPERVISIONADO I. Eu tive a ideia do jogo aleatoriamente e gostaria de descobrir como ela vai ser aplicada.
 
   - #### Objetivo
-  - ##### É criar um jogo de labirinto , onde o jogador deve conseguir sair do labirinto achando a porta de saída. Objetivo do jogador é conseguir sair de varios labirintos em menos tempo.
+  - ##### É criar um jogo de labirinto , onde o jogador deve conseguir sair do labirinto achando a porta de saída. Objetivo do jogador é conseguir sair de vários labirintos em menos tempo.
 
   - #### Valor Agregado
-  - ##### Aprender a como transformar a minha ideia em um jogo. O diferencial é a quebra de padrão em relação aos níveis onde a lógica das fases passadas pelo jogador não tem o modo de dificuldade do jogo crescente , pois aleatoriamente qualquer fase pode ter um modo fácil , médio ou dificil .
+  - ##### Aprender a como transformar a minha ideia em um jogo. O diferencial é a quebra de padrão em relação aos níveis onde a lógica das fases passadas pelo jogador não tem o modo de dificuldade do jogo crescente , pois aleatoriamente qualquer fase pode ter um modo fácil , médio ou difícil .
 
   - #### Fases
   - ##### O jogador escolhe o estilo de jogo : concorrer com outros jogadores online ou concluindo as fases. Vai ter 3 fases para o jogador jogar . E cada fase vai ter uma quantidade de labirintos para ser passado com o tempo limitado.
@@ -38,7 +38,7 @@
 
   - #### Estilo de jogo por fases
   - #### Fase 1
-  - ##### Será 2 labirinto .Cada labirintos vai ter o modo de jogo escolhido aleatoriamente: fácil , médio ou dificil e o jogador deve concluir os labirintos com o tempo limite de 2 minutos
+  - ##### Será 2 labirinto .Cada labirintos vai ter o modo de jogo escolhido aleatoriamente: fácil , médio ou difícil e o jogador deve concluir os labirintos com o tempo limite de 2 minutos
 
   - #### Fase 2
   - ##### Serão 3 labirintos . E cada labirinto vai ter com o modo de jogo escolhido aleatoriamente e o jogador deve concluir os 2 labirintos com o tempo limite de 2 minutos
@@ -66,12 +66,12 @@
 
 ### **Questão 3.** Scrum
 
-- Crie no gitbub um kanban para o seu projeto; R: feito 
-- Crie os itens de backlog no seu kanban.  R: feito 
+- Crie no gitbub um kanban para o seu projeto; R: feito - ok (1 ponto)
+- Crie os itens de backlog no seu kanban.  R: feito - ok (1 ponto)
 
 ### **Questão 4.** Phaser 3
 
-* Crie o projeto phaser base para o jogo;  R: feito 
+* Crie o projeto phaser base para o jogo;  R: feito - ok (1 ponto)
 
 **MISSÃO INSTITUCIONAL**
 
