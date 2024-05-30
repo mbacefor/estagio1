@@ -10,7 +10,7 @@
 2. Meu nome é: André Jonas Morais da Rocha. Link do projeto: [https://github.com/Andrejmrocha/Crush-Craft](https://github.com/Andrejmrocha/Crush-Craft)
 3. Meu nome é: Bruna Dafne da Silva Souza. Link do projeto:  [projeto:https://github.com/BrunaDafne/DJlivery-jogo](https://github.com/BrunaDafne/DJlivery-jogo)
 4. Meu nome é: Isaac Viana Guedes Pontes. Link do projeto: [https://github.com/isaacviana7/MagicFall.git](https://github.com/isaacviana7/MagicFall.git)
-5. Meu nome é: João Victor Gondim Aires. Link do projeto: [https://github.com/jvaires/Jungle-Adventure](https://github.com/jvaires/Jungle-Adventure)
+5. Meu nome é: João Victor Gondim Aires. Link do projeto: [[https://github.com/jvaires/Jungle-Adventure](https://github.com/jvaires/JungleAdventureGame.git)]
 6. Meu nome é: João Victor Lopes Cavalcante. Link do projeto: [https://github.com/Jaum0730/Boltzman-Lagrange.git](https://github.com/Jaum0730/Boltzman-Lagrange.git)
 7. Meu nome é: Lucas Muniz Teles. Link do [projeto:https://github.com/lucasMunizt/estagio-1.git](https://github.com/lucasMunizt/estagio-1.git)
 8. Meu nome é: Renan Almeida da Silva. Link do projeto: [https://github.com/renanalmeidads/Abismo](https://github.com/renanalmeidads/Abismo)
